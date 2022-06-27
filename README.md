@@ -43,4 +43,8 @@ I am a self-taught full stack developer with over 10 years of experience. Throug
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Mixpanel via proxy with Next.js rewrites](https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e)
+- [Building a headless eCommerce shop with Magento and Vue](https://dev.to/rain2o/building-a-headless-ecommerce-shop-with-magento-and-vue-g7)
+- [I built my first SaaS on Next.js](https://dev.to/rain2o/i-built-my-first-saas-on-next-js-21o)
+- [Headless Magento - Using Frontend URLs in Emails](https://dev.to/rain2o/headless-magento-using-frontend-urls-in-emails-5gd)
 <!-- BLOG-POST-LIST:END -->
